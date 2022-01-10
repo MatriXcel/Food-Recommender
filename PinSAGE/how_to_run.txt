@@ -1,0 +1,9 @@
+
+How to train model:
+
+!python model.py text_data_5.pkl --num-epochs 1 --num-workers 2 --device cuda:0  --batch-size 32 --batches-per-epoch 5000 -k 500
+
+
+how to run evaluations on final embeddings:
+
+!python evaluation.py text_data_5.pkl embeddings.pt

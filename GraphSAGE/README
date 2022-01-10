@@ -1,0 +1,11 @@
+GraphSAGE Model 
+
+
+To run the model, for training, without fir preprocessing the data, place the raw data files in the data directory.
+The code will look for these files there and will create a new graph, if there already isn't one. It'll load the data, preprocess, create a graph and save it in th data directory as data.bin.
+It'll then proceed to creating the model, training it and dumping it into the data directory as model.pkl.
+
+
+Required libraries are listed in the requirements.txt file.
+
+
