@@ -11,6 +11,6 @@ Typical Data Science Libraries - Numpy, Pandas, Matplotlib etc.
 
 Team members:
 
-Chris Good - https://github.com/cdgood
-Patrick Kyoyetera - https://github.com/pkyoyetera
+Chris Good - https://github.com/cdgood <br/>
+Patrick Kyoyetera - https://github.com/pkyoyetera <br/>
 Myself
